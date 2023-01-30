@@ -11,6 +11,6 @@ Can click on an image to perform zoom in and zoom out operations.
 A user can also navigate through the pages if there are multiple pages.
 
 #sample Images
-![Alt text](/Images/Main window.jpg?raw=true "Initial load")
-![Alt text](/Images/MainWindowWithSearchResults.jpg?raw=true "With Search Results")
+![Alt text](FlickrDesktop/Images/Main window.jpg?raw=true "Initial load")
+![Alt text](FlickrDesktop/Images/MainWindowWithSearchResults.jpg?raw=true "With Search Results")
 ![Alt text](/Images/EnlargedImage.jpg?raw=true "Initial load")
