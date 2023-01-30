@@ -9,8 +9,3 @@ After the API key is generated, get this project, navigate to ViewModels folder.
 Flickr Desktop is a MVVM based WPF windows application. A user can perform search operation. 
 Can click on an image to perform zoom in and zoom out operations. 
 A user can also navigate through the pages if there are multiple pages.
-
-#sample Images
-![Alt text](FlickrDesktop/Images/Main window.jpg?raw=true "Initial load")
-![Alt text](FlickrDesktop/Images/MainWindowWithSearchResults.jpg?raw=true "With Search Results")
-![Alt text](/Images/EnlargedImage.jpg?raw=true "Initial load")
